@@ -1,5 +1,5 @@
 {
-  "name": "@cws/convert-units",
+  "name": "cws-convert-units",
   "version": "2.3.4-c",
   "description": "Convert between quantities in different units",
   "main": "lib",
