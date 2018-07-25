@@ -89,5 +89,5 @@ declare module "cws-convert-units" {
 
     function convert(value: number): Convert;
 
-    export default convert;
+    export = convert;
 }
