@@ -1,6 +1,6 @@
 {
   "name": "cws-convert-units",
-  "version": "2.3.4-c",
+  "version": "2.3.4-c1",
   "description": "Convert between quantities in different units",
   "main": "lib",
   "dependencies": {
